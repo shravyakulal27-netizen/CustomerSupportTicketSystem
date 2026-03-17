@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\bin\Debug\TicketSystemDesktop.exe.config
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\bin\Debug\TicketSystemDesktop.exe
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\bin\Debug\TicketSystemDesktop.pdb
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.exe
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.pdb
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.LoginForm.resources
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.TicketDetailsForm.resources
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.TicketListForm.resources
+C:\Users\Lenovo\source\repos\TicketsystemFinal\TicketSystemDesktop\obj\Debug\TicketSystemDesktop.CreateTicketForm.resources
